@@ -1,4 +1,4 @@
-# delta-producer-clb-site-into
+# delta-producer-clb-site-info
 
 Modeled after: [delta-producer-publication-graph-maintainer](https://github.com/lblod/delta-producer-publication-graph-maintainer) from organisatieportaal.
 
